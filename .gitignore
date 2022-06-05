@@ -1,0 +1,5 @@
+# Ignore QtCreator user files
+*.user
+
+# Ignore auto-generated export files
+**/exports
